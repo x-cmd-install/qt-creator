@@ -4,10 +4,10 @@ about:
     A cross-platform Qt IDE
   license: NOASSERTION
   homepage: 
-  head: a8c6da3
+  head: cbec887
   archived: false
   latestVersion: v20.0.1
-  collectedAt: 2026-09-04T19:35:06Z
+  collectedAt: 2026-09-04T20:54:36Z
 timeline:
   created: 2013-05-06
   lastCommit: 2026-09-04
@@ -21,7 +21,7 @@ popularity:
   pullRequest: 0
   issue: 0
 language:
-  C++: 62072752
+  C++: 62072783
   QML: 5185392
   C: 2042993
   Python: 2005219
@@ -55,7 +55,7 @@ language:
   Pawn: 359
   M4: 163
   Java: 31
-totalBytes: 73000708
+totalBytes: 73000739
 recent:
   last30d:
     since: 2026-08-05
@@ -64,7 +64,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 582
+    commit: 583
   last60d:
     since: 2026-07-06
     release: 1
@@ -72,7 +72,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1378
+    commit: 1379
   last90d:
     since: 2026-06-06
     release: 1
@@ -80,7 +80,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2230
+    commit: 2231
   last180d:
     since: 2026-03-08
     release: 7
@@ -88,7 +88,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 3654
+    commit: 3655
   last360d:
     since: 2025-09-09
     release: 15
@@ -96,7 +96,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 5798
+    commit: 5799
   last720d:
     since: 2024-09-14
     release: 31
@@ -104,15 +104,253 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 12955
+    commit: 12956
 total:
   release: 85
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 103132
+  commit: 103133
 ---
+path: /home/runner/.x-repo/github.com/qt-creator/qt-creator
+collectedAt: 2026-09-04T20:55:19Z
+loc:
+  Cpp:
+    code: 1260746
+    comments: 86662
+    blanks: 218769
+    files: 4584
+  TypeScript:
+    code: 629197
+    comments: 88265
+    blanks: 1124
+    files: 30
+  C:
+    code: 477544
+    comments: 108716
+    blanks: 40063
+    files: 344
+  CHeader:
+    code: 270218
+    comments: 58062
+    blanks: 79286
+    files: 4754
+  Qml:
+    code: 102585
+    comments: 21280
+    blanks: 21605
+    files: 1376
+  Xml:
+    code: 75125
+    comments: 1741
+    blanks: 2401
+    files: 104
+  CppHeader:
+    code: 60619
+    comments: 7130
+    blanks: 10079
+    files: 10
+  Python:
+    code: 39497
+    comments: 4994
+    blanks: 6575
+    files: 159
+  Json:
+    code: 36538
+    comments: 0
+    blanks: 209
+    files: 167
+  CMake:
+    code: 21323
+    comments: 1541
+    blanks: 2504
+    files: 544
+  Svg:
+    code: 17071
+    comments: 19
+    blanks: 11
+    files: 10
+  Html:
+    code: 11926
+    comments: 8
+    blanks: 1184
+    files: 6
+  Yaml:
+    code: 6445
+    comments: 536
+    blanks: 197
+    files: 21
+  Autoconf:
+    code: 4458
+    comments: 553
+    blanks: 607
+    files: 116
+  Glsl:
+    code: 4344
+    comments: 121
+    blanks: 194
+    files: 37
+  Pan:
+    code: 2754
+    comments: 135
+    blanks: 431
+    files: 77
+  Bitbake:
+    code: 2516
+    comments: 16
+    blanks: 257
+    files: 29
+  Lua:
+    code: 2368
+    comments: 1339
+    blanks: 755
+    files: 51
+  Go:
+    code: 2286
+    comments: 237
+    blanks: 410
+    files: 18
+  ObjectiveCpp:
+    code: 1522
+    comments: 120
+    blanks: 310
+    files: 16
+  Css:
+    code: 1309
+    comments: 100
+    blanks: 273
+    files: 11
+  Sh:
+    code: 1291
+    comments: 374
+    blanks: 320
+    files: 38
+  Perl:
+    code: 1192
+    comments: 173
+    blanks: 258
+    files: 18
+  Prolog:
+    code: 1187
+    comments: 44
+    blanks: 352
+    files: 125
+  ModuleDef:
+    code: 924
+    comments: 0
+    blanks: 68
+    files: 2
+  JavaScript:
+    code: 702
+    comments: 68
+    blanks: 121
+    files: 30
+  PowerShell:
+    code: 610
+    comments: 72
+    blanks: 67
+    files: 4
+  AssemblyGAS:
+    code: 303
+    comments: 238
+    blanks: 58
+    files: 2
+  Ini:
+    code: 252
+    comments: 0
+    blanks: 0
+    files: 7
+  Bash:
+    code: 201
+    comments: 71
+    blanks: 53
+    files: 6
+  Zsh:
+    code: 170
+    comments: 32
+    blanks: 37
+    files: 4
+  Fish:
+    code: 122
+    comments: 46
+    blanks: 23
+    files: 1
+  Batch:
+    code: 114
+    comments: 41
+    blanks: 45
+    files: 7
+  Rust:
+    code: 106
+    comments: 8
+    blanks: 20
+    files: 1
+  Makefile:
+    code: 100
+    comments: 95
+    blanks: 27
+    files: 6
+  Meson:
+    code: 96
+    comments: 5
+    blanks: 21
+    files: 7
+  Toml:
+    code: 83
+    comments: 2
+    blanks: 21
+    files: 21
+  Dockerfile:
+    code: 34
+    comments: 0
+    blanks: 7
+    files: 2
+  Ruby:
+    code: 33
+    comments: 14
+    blanks: 8
+    files: 1
+  Nim:
+    code: 27
+    comments: 29
+    blanks: 12
+    files: 9
+  ReStructuredText:
+    code: 25
+    comments: 0
+    blanks: 7
+    files: 1
+  ForgeConfig:
+    code: 8
+    comments: 7
+    blanks: 0
+    files: 1
+  ObjectiveC:
+    code: 5
+    comments: 0
+    blanks: 2
+    files: 1
+  Java:
+    code: 2
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 23380
+    blanks: 8315
+    files: 174
+  Text:
+    code: 0
+    comments: 11348
+    blanks: 1144
+    files: 242
+total:
+  code: 3038186
+  comments: 417659
+  blanks: 398246
+  files: 13175
 ---
 date: "2026-08-24"
 repo:
