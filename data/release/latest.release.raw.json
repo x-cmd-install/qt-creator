@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 173130328,
       "digest": "sha256:eefaa15267c7080c4562162bbd44c81c353475a69341432adb165545a27fd4e5",
-      "download_count": 113,
+      "download_count": 114,
       "created_at": "2026-07-30T17:12:56Z",
       "updated_at": "2026-07-30T17:13:04Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.1/qtcreator-linux-x64-20.0.1.7z"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 152776754,
       "digest": "sha256:28ac11be7ad750bdd053bd6de043ff0a83e64c708143bac3d05728437fe2c0b1",
-      "download_count": 190,
+      "download_count": 191,
       "created_at": "2026-07-30T17:12:56Z",
       "updated_at": "2026-07-30T17:13:06Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.1/qtcreator-linux-x64-20.0.1.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4171836,
       "digest": "sha256:5916bd561b5ecd464e6861765e39c44091a39f0a8a2308050a2a8139d3efc5b0",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-07-30T17:12:56Z",
       "updated_at": "2026-07-30T17:12:57Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.1/qtcreator-linux-x64-20.0.1_dev.7z"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 133000384,
       "digest": "sha256:a3ef315c6cb00c8787dbfb82823df29215b190bbe24aff60b59ba23cc6c400e6",
-      "download_count": 433,
+      "download_count": 437,
       "created_at": "2026-07-30T17:12:57Z",
       "updated_at": "2026-07-30T17:13:03Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.1/qtcreator-windows-x64-msvc-20.0.1.7z"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 176998255,
       "digest": "sha256:cb2570fd31ac6d2b7e033ae2fd8aba6052cd30fe90e6a1d07486a75498991458",
-      "download_count": 1183,
+      "download_count": 1193,
       "created_at": "2026-07-30T17:12:56Z",
       "updated_at": "2026-07-30T17:13:04Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.1/qtcreator-windows-x64-msvc-20.0.1.msi"
