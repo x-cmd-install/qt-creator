@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1889,
       "digest": "sha256:c155ef0d7fd0043b1a21d2aaf691ac44a4d24caf92edfaecc83f8ce25eb20014",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:56:55Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/changelog.md"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 311244514,
       "digest": "sha256:5a320311db0270a48af6f1c583e0d99887c1f28b2eafa384ebc4250902cf0ec0",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:57:07Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qt-creator-macos-universal-20.0.2.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 173111699,
       "digest": "sha256:a0a05ea4de8a5492a31be5414a437ea623ea9c7c89106525a15612199f933583",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:57:03Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-linux-x64-20.0.2.7z"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 152799524,
       "digest": "sha256:dd75cdd250a67ce98407ea964ae8ce4b00872e166838e5d7e18e80fe4e8e2cff",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:57:02Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-linux-x64-20.0.2.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4172029,
       "digest": "sha256:6aace7462965a7ffd79ba1e985117549d04232a2952454221351592092d965a3",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:56:55Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-linux-x64-20.0.2_dev.7z"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 218027180,
       "digest": "sha256:25687c4148b3ee750642147173b6c5066a6b2c942cc8ef3df7ff90ef8238af3d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:57:04Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-macos-universal-20.0.2.7z"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5185064,
       "digest": "sha256:2695177c502ed37ef0fc774f294c02779de5c0a528e06af230a094321fde1199",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:56:55Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-macos-universal-20.0.2_dev.7z"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 133011892,
       "digest": "sha256:66600eff844968bcacae2d70d113e8e1e09ccf923578b5f6ba488b94e6a59f9d",
-      "download_count": 28,
+      "download_count": 53,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:57:03Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-windows-x64-msvc-20.0.2.7z"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 176965676,
       "digest": "sha256:fbf7678484aca3e80d0cd554181e23679d2269ebd567db3a05498cfdb627b941",
-      "download_count": 105,
+      "download_count": 187,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:57:03Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-windows-x64-msvc-20.0.2.msi"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 9493107,
       "digest": "sha256:49b9e97f492d549a3aee8c6748b3bc53eb94d0fd7aabcdb450709b005ac1b76d",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:56:56Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-windows-x64-msvc-20.0.2_dev.7z"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 37629909,
       "digest": "sha256:be75dd11b682dbda44d559cf73941026881496f5ef0a72e8c89243ef416bcaca",
-      "download_count": 2,
+      "download_count": 10,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:56:57Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreatorcdbext-windows-x64-msvc-20.0.2.7z"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12374,
       "digest": "sha256:2055b8113bd1fc3abea131071bc3fa112192bfe8bf95addfd7cc196b4b88d3ff",
-      "download_count": 1,
+      "download_count": 7,
       "created_at": "2026-09-23T14:56:55Z",
       "updated_at": "2026-09-23T14:56:55Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/wininterrupt-windows-x64-msvc-20.0.2.7z"
