@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,078 · **Forks**: 874 · **Open issues**: 0 · **Contributors**: 464
+- **Stars**: 3,077 · **Forks**: 874 · **Open issues**: 0 · **Contributors**: 464
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 0 | 0 | 0 | 0 | 641 |
-| last60d | 2026-07-28 | 2 | 0 | 0 | 0 | 0 | 1230 |
-| 90d | 2026-06-28 | 2 | 0 | 0 | 0 | 0 | 2143 |
-| last180d | 2026-03-30 | 7 | 0 | 0 | 0 | 0 | 3939 |
-| 360d | 2025-10-01 | 16 | 0 | 0 | 0 | 0 | 6124 |
-| last720d | 2024-10-06 | 31 | 0 | 0 | 0 | 0 | 13159 |
+| 30d | 2026-08-28 | 1 | 0 | 0 | 0 | 0 | 471 |
+| last60d | 2026-07-29 | 2 | 0 | 0 | 0 | 0 | 1128 |
+| 90d | 2026-06-29 | 2 | 0 | 0 | 0 | 0 | 1962 |
+| last180d | 2026-03-31 | 7 | 0 | 0 | 0 | 0 | 3858 |
+| 360d | 2025-10-02 | 15 | 0 | 0 | 0 | 0 | 6054 |
+| last720d | 2024-10-07 | 31 | 0 | 0 | 0 | 0 | 13159 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for qt-creator lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:26:11Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:49:19Z._
