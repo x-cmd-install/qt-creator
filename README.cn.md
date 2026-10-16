@@ -14,14 +14,14 @@ x install qt-creator
 
 ## 代码洞察
 
-合计: **3,275,068** 行代码（覆盖前 5 种语言、共 **11456** 个文件）。
+合计: **3,276,919** 行代码（覆盖前 5 种语言、共 **11469** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Cpp | 1,429,990 | 106,772 | 236,807 | 4853 |
-| TypeScript | 629,857 | 88,265 | 1,124 | 32 |
-| C | 483,035 | 110,405 | 41,920 | 343 |
-| CHeader | 291,162 | 66,784 | 85,584 | 4851 |
+| Cpp | 1,431,385 | 106,900 | 236,872 | 4857 |
+| TypeScript | 629,864 | 88,273 | 1,126 | 33 |
+| C | 483,147 | 110,415 | 41,931 | 345 |
+| CHeader | 291,275 | 66,801 | 85,620 | 4857 |
 | Qml | 102,625 | 21,282 | 21,608 | 1377 |
 
 ## OpenSSF Scorecard 评分
@@ -41,45 +41,45 @@ x install qt-creator
 
 ## 发布
 
-- **最新版本**: `v20.0.2` (2026-09-23)
-- **最近提交**: 2026-10-14
+- **最新版本**: `v21.0.0-beta2` (2026-10-15)
+- **最近提交**: 2026-10-15
 - **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 3,088 · **Fork**: 875 · **开放 issue**: 0 · **贡献者**: 462
+- **Star**: 3,086 · **Fork**: 876 · **开放 issue**: 0 · **贡献者**: 463
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 104253
+- **发布数**: 87 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 104300
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 0 | 0 | 0 | 0 | 382 |
-| last60d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 1172 |
-| 90d | 2026-07-17 | 2 | 0 | 0 | 0 | 0 | 1766 |
-| last180d | 2026-04-18 | 7 | 0 | 0 | 0 | 0 | 3976 |
-| 360d | 2025-10-20 | 13 | 0 | 0 | 0 | 0 | 6221 |
-| last720d | 2024-10-25 | 30 | 0 | 0 | 0 | 0 | 13294 |
+| 30d | 2026-09-16 | 2 | 0 | 0 | 0 | 0 | 419 |
+| last60d | 2026-08-17 | 2 | 0 | 0 | 0 | 0 | 1209 |
+| 90d | 2026-07-18 | 3 | 0 | 0 | 0 | 0 | 1803 |
+| last180d | 2026-04-19 | 8 | 0 | 0 | 0 | 0 | 4014 |
+| 360d | 2025-10-21 | 14 | 0 | 0 | 0 | 0 | 6259 |
+| last720d | 2024-10-26 | 31 | 0 | 0 | 0 | 0 | 13327 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [changelog.md](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/changelog.md) | 1.8 KiB | `other` |
-| [qt-creator-macos-universal-20.0.2.dmg](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qt-creator-macos-universal-20.0.2.dmg) | 296.8 MiB | `native/darwin/x64` |
-| [qtcreator-linux-x64-20.0.2.7z](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-linux-x64-20.0.2.7z) | 165.1 MiB | `other` |
-| [qtcreator-linux-x64-20.0.2.deb](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-linux-x64-20.0.2.deb) | 145.7 MiB | `other` |
-| [qtcreator-linux-x64-20.0.2_dev.7z](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-linux-x64-20.0.2_dev.7z) | 4.0 MiB | `other` |
-| [qtcreator-macos-universal-20.0.2.7z](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-macos-universal-20.0.2.7z) | 207.9 MiB | `native/darwin/x64` |
-| [qtcreator-macos-universal-20.0.2_dev.7z](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-macos-universal-20.0.2_dev.7z) | 4.9 MiB | `native/darwin/x64` |
-| [qtcreator-windows-x64-msvc-20.0.2.7z](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-windows-x64-msvc-20.0.2.7z) | 126.9 MiB | `native/win/x64` |
-| [qtcreator-windows-x64-msvc-20.0.2.msi](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-windows-x64-msvc-20.0.2.msi) | 168.8 MiB | `native/win/x64` |
-| [qtcreator-windows-x64-msvc-20.0.2_dev.7z](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreator-windows-x64-msvc-20.0.2_dev.7z) | 9.1 MiB | `native/win/x64` |
-| [qtcreatorcdbext-windows-x64-msvc-20.0.2.7z](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/qtcreatorcdbext-windows-x64-msvc-20.0.2.7z) | 35.9 MiB | `native/win/x64` |
-| [wininterrupt-windows-x64-msvc-20.0.2.7z](https://github.com/qt-creator/qt-creator/releases/download/v20.0.2/wininterrupt-windows-x64-msvc-20.0.2.7z) | 12.1 KiB | `native/win/x64` |
+| [changelog.md](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/changelog.md) | 55.2 KiB | `other` |
+| [qt-creator-macos-universal-21.0.0-beta2.dmg](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qt-creator-macos-universal-21.0.0-beta2.dmg) | 300.3 MiB | `native/darwin/x64` |
+| [qtcreator-linux-x64-21.0.0-beta2.7z](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qtcreator-linux-x64-21.0.0-beta2.7z) | 164.1 MiB | `other` |
+| [qtcreator-linux-x64-21.0.0-beta2.deb](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qtcreator-linux-x64-21.0.0-beta2.deb) | 146.9 MiB | `other` |
+| [qtcreator-linux-x64-21.0.0-beta2_dev.7z](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qtcreator-linux-x64-21.0.0-beta2_dev.7z) | 4.5 MiB | `other` |
+| [qtcreator-macos-universal-21.0.0-beta2.7z](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qtcreator-macos-universal-21.0.0-beta2.7z) | 215.1 MiB | `native/darwin/x64` |
+| [qtcreator-macos-universal-21.0.0-beta2_dev.7z](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qtcreator-macos-universal-21.0.0-beta2_dev.7z) | 6.0 MiB | `native/darwin/x64` |
+| [qtcreator-windows-x64-msvc-21.0.0-beta2.7z](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qtcreator-windows-x64-msvc-21.0.0-beta2.7z) | 126.0 MiB | `native/win/x64` |
+| [qtcreator-windows-x64-msvc-21.0.0-beta2.msi](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qtcreator-windows-x64-msvc-21.0.0-beta2.msi) | 164.6 MiB | `native/win/x64` |
+| [qtcreator-windows-x64-msvc-21.0.0-beta2_dev.7z](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qtcreator-windows-x64-msvc-21.0.0-beta2_dev.7z) | 9.3 MiB | `native/win/x64` |
+| [qtcreatorcdbext-windows-x64-msvc-21.0.0-beta2.7z](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/qtcreatorcdbext-windows-x64-msvc-21.0.0-beta2.7z) | 36.6 MiB | `native/win/x64` |
+| [wininterrupt-windows-x64-msvc-21.0.0-beta2.7z](https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-beta2/wininterrupt-windows-x64-msvc-21.0.0-beta2.7z) | 12.1 KiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -90,4 +90,4 @@ qt-creator 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261015.yml` · 2026-10-15T05:06:52Z._
+_数据快照: `data/card/261016.yml` · 2026-10-16T05:10:26Z._
