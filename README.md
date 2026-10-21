@@ -14,25 +14,25 @@ x install qt-creator
 
 ## Code insight
 
-Total: **3,284,952** lines of code across **11484** files in the top 5 languages.
+Total: **3,285,527** lines of code across **11484** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 1,437,940 | 107,496 | 237,602 | 4866 |
+| Cpp | 1,438,490 | 107,506 | 237,578 | 4866 |
 | TypeScript | 629,864 | 88,273 | 1,126 | 33 |
 | C | 483,147 | 110,415 | 41,931 | 345 |
-| CHeader | 291,465 | 66,836 | 85,693 | 4863 |
+| CHeader | 291,490 | 66,839 | 85,695 | 4863 |
 | Qml | 102,625 | 21,282 | 21,608 | 1377 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v21.0.0-beta2` (2026-10-15)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 12
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 104333
+- **Releases**: 87 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 104344
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 0 | 0 | 0 | 0 | 363 |
-| last60d | 2026-08-21 | 2 | 0 | 0 | 0 | 0 | 1111 |
-| 90d | 2026-07-22 | 3 | 0 | 0 | 0 | 0 | 1710 |
-| last180d | 2026-04-23 | 8 | 0 | 0 | 0 | 0 | 3910 |
-| 360d | 2025-10-25 | 14 | 0 | 0 | 0 | 0 | 6195 |
-| last720d | 2024-10-30 | 31 | 0 | 0 | 0 | 0 | 13302 |
+| 30d | 2026-09-21 | 2 | 0 | 0 | 0 | 0 | 371 |
+| last60d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 1120 |
+| 90d | 2026-07-23 | 3 | 0 | 0 | 0 | 0 | 1719 |
+| last180d | 2026-04-24 | 7 | 0 | 0 | 0 | 0 | 3919 |
+| 360d | 2025-10-26 | 14 | 0 | 0 | 0 | 0 | 6204 |
+| last720d | 2024-10-31 | 31 | 0 | 0 | 0 | 0 | 13278 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for qt-creator lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:19:05Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:19:48Z._
