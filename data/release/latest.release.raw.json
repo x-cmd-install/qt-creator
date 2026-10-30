@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 56566,
       "digest": "sha256:1f0bd975120d1b2aa20ff823c9e31f356f4a770b2f7291080f243b0270b10b71",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-27T16:27:17Z",
       "updated_at": "2026-10-27T16:27:18Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-rc1/changelog.md"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 172304078,
       "digest": "sha256:97fcd3bfb2fa0caf710b7f8e1c348131c8b76e7b0e41bde7a560c7b078ab5a32",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-27T16:27:17Z",
       "updated_at": "2026-10-27T16:27:32Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-rc1/qtcreator-linux-x64-21.0.0-rc1.7z"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 154231152,
       "digest": "sha256:670442640763421866621cbc7f810ce152a4c2c35f3bc8478145aefe7c250796",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-27T16:27:17Z",
       "updated_at": "2026-10-27T16:27:27Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-rc1/qtcreator-linux-x64-21.0.0-rc1.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4730179,
       "digest": "sha256:74101eaeb6332ed6b9919f28487b6836fe65497eefc554cdf9e1a09bbb3e0f6c",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-27T16:27:17Z",
       "updated_at": "2026-10-27T16:27:18Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-rc1/qtcreator-linux-x64-21.0.0-rc1_dev.7z"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 134641184,
       "digest": "sha256:d84290d70a02a42122952532f09c93b800b8c714587be78ad3f76501305ee530",
-      "download_count": 13,
+      "download_count": 22,
       "created_at": "2026-10-27T16:27:17Z",
       "updated_at": "2026-10-27T16:27:23Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-rc1/qtcreator-windows-x64-msvc-21.0.0-rc1.7z"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 176387467,
       "digest": "sha256:4f4f77fa75f369e7e4209b3b6c15d5c7f8743d0cdebbea134180c676309dc401",
-      "download_count": 74,
+      "download_count": 129,
       "created_at": "2026-10-27T16:27:17Z",
       "updated_at": "2026-10-27T16:27:26Z",
       "browser_download_url": "https://github.com/qt-creator/qt-creator/releases/download/v21.0.0-rc1/qtcreator-windows-x64-msvc-21.0.0-rc1.msi"
