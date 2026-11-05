@@ -14,14 +14,14 @@ x install qt-creator
 
 ## 代码洞察
 
-合计: **3,318,975** 行代码（覆盖前 5 种语言、共 **11575** 个文件）。
+合计: **3,321,194** 行代码（覆盖前 5 种语言、共 **11580** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Cpp | 1,469,524 | 110,192 | 241,387 | 4915 |
+| Cpp | 1,471,510 | 110,280 | 241,608 | 4918 |
 | TypeScript | 629,075 | 88,273 | 1,126 | 33 |
 | C | 483,147 | 110,415 | 41,931 | 345 |
-| CHeader | 292,869 | 67,293 | 86,143 | 4905 |
+| CHeader | 293,036 | 67,331 | 86,184 | 4907 |
 | Qml | 102,623 | 21,281 | 21,608 | 1377 |
 
 ## OpenSSF Scorecard 评分
@@ -32,7 +32,7 @@ x install qt-creator
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Security-Policy** (0/10) — security policy file not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -42,7 +42,7 @@ x install qt-creator
 ## 发布
 
 - **最新版本**: `v21.0.0-rc1` (2026-10-27)
-- **最近提交**: 2026-11-03
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 12 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install qt-creator
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 104633
+- **发布数**: 88 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 104669
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 0 | 0 | 0 | 0 | 328 |
-| last60d | 2026-09-05 | 3 | 0 | 0 | 0 | 0 | 977 |
-| 90d | 2026-08-06 | 3 | 0 | 0 | 0 | 0 | 1722 |
-| last180d | 2026-05-08 | 8 | 0 | 0 | 0 | 0 | 3881 |
-| 360d | 2025-11-09 | 14 | 0 | 0 | 0 | 0 | 6275 |
-| last720d | 2024-11-14 | 31 | 0 | 0 | 0 | 0 | 13248 |
+| 30d | 2026-10-06 | 2 | 0 | 0 | 0 | 0 | 355 |
+| last60d | 2026-09-06 | 3 | 0 | 0 | 0 | 0 | 1004 |
+| 90d | 2026-08-07 | 3 | 0 | 0 | 0 | 0 | 1750 |
+| last180d | 2026-05-09 | 7 | 0 | 0 | 0 | 0 | 3909 |
+| 360d | 2025-11-10 | 14 | 0 | 0 | 0 | 0 | 6303 |
+| last720d | 2024-11-15 | 30 | 0 | 0 | 0 | 0 | 13258 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ qt-creator 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:55:37Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:13:27Z._
