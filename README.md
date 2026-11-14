@@ -14,14 +14,14 @@ x install qt-creator
 
 ## Code insight
 
-Total: **3,302,884** lines of code across **11602** files in the top 5 languages.
+Total: **3,306,097** lines of code across **11605** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 1,485,272 | 110,419 | 242,461 | 4932 |
+| Cpp | 1,488,242 | 110,636 | 242,709 | 4935 |
 | TypeScript | 595,558 | 113,650 | 1,076 | 33 |
 | C | 483,148 | 110,415 | 41,931 | 345 |
-| CHeader | 293,527 | 67,297 | 86,309 | 4915 |
+| CHeader | 293,583 | 67,299 | 86,321 | 4915 |
 | Qml | 103,001 | 21,281 | 21,608 | 1377 |
 
 ## Source
@@ -41,18 +41,18 @@ Total: **3,302,884** lines of code across **11602** files in the top 5 languages
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 104867
+- **Releases**: 88 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 104882
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 0 | 0 | 0 | 0 | 374 |
-| last60d | 2026-09-14 | 3 | 0 | 0 | 0 | 0 | 947 |
-| 90d | 2026-08-15 | 3 | 0 | 0 | 0 | 0 | 1761 |
-| last180d | 2026-05-17 | 6 | 0 | 0 | 0 | 0 | 3994 |
-| 360d | 2025-11-18 | 14 | 0 | 0 | 0 | 0 | 6378 |
-| last720d | 2024-11-23 | 30 | 0 | 0 | 0 | 0 | 13232 |
+| 30d | 2026-10-15 | 2 | 0 | 0 | 0 | 0 | 385 |
+| last60d | 2026-09-15 | 3 | 0 | 0 | 0 | 0 | 960 |
+| 90d | 2026-08-16 | 3 | 0 | 0 | 0 | 0 | 1774 |
+| last180d | 2026-05-18 | 6 | 0 | 0 | 0 | 0 | 4009 |
+| 360d | 2025-11-19 | 14 | 0 | 0 | 0 | 0 | 6393 |
+| last720d | 2024-11-24 | 30 | 0 | 0 | 0 | 0 | 13247 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for qt-creator lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:23:00Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:26:17Z._
