@@ -14,7 +14,7 @@ x install qt-creator
 
 ## Code insight
 
-Total: **3,327,538** lines of code across **11638** files in the top 5 languages.
+Total: **3,328,268** lines of code across **11638** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -24,16 +24,6 @@ Total: **3,327,538** lines of code across **11638** files in the top 5 languages
 | CHeader | 294,690 | 68,407 | 86,670 | 4929 |
 | Qml | 103,001 | 21,281 | 21,608 | 1377 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/qt-creator/qt-creator>
@@ -42,7 +32,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v21.0.0-rc1` (2026-10-27)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 12
 
 ## Popularity
@@ -51,18 +41,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 105059
+- **Releases**: 88 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 105062
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 0 | 0 | 0 | 0 | 328 |
-| last60d | 2026-09-23 | 3 | 0 | 0 | 0 | 0 | 875 |
-| 90d | 2026-08-24 | 3 | 0 | 0 | 0 | 0 | 1611 |
-| last180d | 2026-05-26 | 5 | 0 | 0 | 0 | 0 | 3948 |
-| 360d | 2025-11-27 | 14 | 0 | 0 | 0 | 0 | 6443 |
-| last720d | 2024-12-02 | 30 | 0 | 0 | 0 | 0 | 13320 |
+| 30d | 2026-10-24 | 1 | 0 | 0 | 0 | 0 | 331 |
+| last60d | 2026-09-24 | 2 | 0 | 0 | 0 | 0 | 878 |
+| 90d | 2026-08-25 | 3 | 0 | 0 | 0 | 0 | 1614 |
+| last180d | 2026-05-27 | 5 | 0 | 0 | 0 | 0 | 3951 |
+| 360d | 2025-11-28 | 14 | 0 | 0 | 0 | 0 | 6446 |
+| last720d | 2024-12-03 | 29 | 0 | 0 | 0 | 0 | 13294 |
 
 ## Release assets
 
@@ -90,4 +80,4 @@ Install metadata for qt-creator lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:15:02Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:54:52Z._
