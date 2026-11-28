@@ -14,14 +14,14 @@ x install qt-creator
 
 ## Code insight
 
-Total: **3,353,173** lines of code across **11669** files in the top 5 languages.
+Total: **3,356,589** lines of code across **11685** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 1,524,441 | 113,238 | 246,813 | 4970 |
+| Cpp | 1,527,283 | 113,407 | 247,178 | 4978 |
 | TypeScript | 595,045 | 113,655 | 1,077 | 33 |
 | C | 489,140 | 112,854 | 42,069 | 345 |
-| CHeader | 295,924 | 69,127 | 86,983 | 4944 |
+| CHeader | 296,213 | 69,167 | 87,085 | 4952 |
 | Qml | 103,001 | 21,281 | 21,608 | 1377 |
 
 ## OpenSSF Scorecard
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 105248
+- **Releases**: 88 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 105270
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 489 |
-| last60d | 2026-09-28 | 2 | 0 | 0 | 0 | 0 | 1042 |
-| 90d | 2026-08-29 | 3 | 0 | 0 | 0 | 0 | 1781 |
-| last180d | 2026-05-31 | 5 | 0 | 0 | 0 | 0 | 4133 |
-| 360d | 2025-12-02 | 14 | 0 | 0 | 0 | 0 | 6629 |
-| last720d | 2024-12-07 | 29 | 0 | 0 | 0 | 0 | 13387 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 0 | 510 |
+| last60d | 2026-09-29 | 2 | 0 | 0 | 0 | 0 | 1063 |
+| 90d | 2026-08-30 | 3 | 0 | 0 | 0 | 0 | 1803 |
+| last180d | 2026-06-01 | 5 | 0 | 0 | 0 | 0 | 4155 |
+| 360d | 2025-12-03 | 14 | 0 | 0 | 0 | 0 | 6651 |
+| last720d | 2024-12-08 | 29 | 0 | 0 | 0 | 0 | 13408 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for qt-creator lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:01:47Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:23:06Z._
